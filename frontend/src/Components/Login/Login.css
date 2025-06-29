@@ -1,0 +1,10 @@
+.login{
+    width:50%;
+}
+
+
+@media(max-width:400px) {
+  .login {
+    width: 80% !important;
+  }
+}

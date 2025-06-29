@@ -1,0 +1,20 @@
+[
+  {
+    "stockName": "MIDCAPIETF-EQ.NS",
+    "ticker": "MIDCAPIETF.NS",
+    "investedDate": "2025-06-04",
+    "error": "Insufficient data"
+  },
+  {
+    "stockName": "GOLDBEES-EQ.NS",
+    "ticker": "GOLDBEES.NS",
+    "investedDate": "2025-06-05",
+    "error": "Insufficient data"
+  },
+  {
+    "stockName": "NIFTYIETF-EQ.NS",
+    "ticker": "NIFTYIETF.NS",
+    "investedDate": "2025-06-06",
+    "error": "Insufficient data"
+  }
+]
