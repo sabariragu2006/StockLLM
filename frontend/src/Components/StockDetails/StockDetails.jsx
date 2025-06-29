@@ -356,7 +356,7 @@ function StockDetails() {
                 title: {
                   text: 'Comparison of Annual Returns',
                   align: 'center',
-                  style: { fontSize: '20px' },
+                  style: { fontSize: '15px' },
                 },
                 plotOptions: {
                   bar: {
