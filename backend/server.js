@@ -21,7 +21,7 @@ app.use('/reports', express.static(path.join(__dirname, 'reports')));
 const upload = multer({ storage: multer.memoryStorage() });
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
-mongoose.connect("mongodb://localhost:27017/StockLLM", {
+mongoose.connect("mongodb+srv://sabariragu2006:1111@cluster0.lvffbsd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", {
   useNewUrlParser: true,
   useUnifiedTopology: true
 }).then(() => console.log("✅ MongoDB connected"))
